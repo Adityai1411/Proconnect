@@ -101,6 +101,7 @@ The backend is powered by **FastAPI** for handling APIs, NLP processing, and dat
 ```bash
 git clone https://github.com/Adityai1411/Proconnect.git
 cd Proconnect
+```
 Set up backend:
 ```
 cd backend
@@ -108,7 +109,7 @@ python -m venv .venv
 .venv\Scripts\activate    # Windows
 # OR for Linux/Mac: source .venv/bin/activate
 pip install -r requirements.txt
-
+```
 Configure environment variables:
 
 Copy .env.example to .env and set your values:
@@ -222,12 +223,4 @@ Visualizations powered by standard HTML/CSS.
 
 ---
 
-This README is now:
-
-- **Detailed** (all sections covered)  
-- **GitHub-ready** (markdown formatting, table of contents, headings, lists)  
-- **Includes screenshots** from your `Output` folder  
-- Explains **installation, usage, folder structure, tech stack, requirements, and license**  
-
----
 
