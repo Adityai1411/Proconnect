@@ -1,4 +1,10 @@
 # Proconnect
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![React](https://img.shields.io/badge/react-18.2.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Issues](https://img.shields.io/github/issues/Adityai1411/Proconnect)
+![Stars](https://img.shields.io/github/stars/Adityai1411/Proconnect?style=social)
+![Forks](https://img.shields.io/github/forks/Adityai1411/Proconnect?style=social)
 
 Proconnect is a full-stack web app where users upload resumes for automated analysis and visualization. It features a context-aware chatbot to answer questions about the uploaded resumes, providing AI-driven insights and career guidance.
 
@@ -262,15 +268,7 @@ Stars / Forks
 ![Stars](https://img.shields.io/github/stars/Adityai1411/Proconnect?style=social)
 ![Forks](https://img.shields.io/github/forks/Adityai1411/Proconnect?style=social)
 
-Example Placement at Top of README
-# Proconnect
 
-![Python](https://img.shields.io/badge/python-3.10+-blue)
-![React](https://img.shields.io/badge/react-18.2.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Issues](https://img.shields.io/github/issues/Adityai1411/Proconnect)
-![Stars](https://img.shields.io/github/stars/Adityai1411/Proconnect?style=social)
-![Forks](https://img.shields.io/github/forks/Adityai1411/Proconnect?style=social)
 
 Proconnect is a full-stack web app where users upload resumes for automated analysis and visualization...
 
